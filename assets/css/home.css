@@ -1,0 +1,37 @@
+body{
+
+    margin: 0px;
+    /* text-align: center; */
+    color: teal;
+}
+
+#contact-details{
+    display: block;
+    align-items: center;
+    /* position: relative;   */
+    background-color: rgb(95, 28, 158);
+    color: white;
+    width: 500px;
+    /* margin: 10px; */
+}
+
+#inside-contact> p {
+    
+
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-bottom: 2px white solid;
+}
+
+ #inside-contact> p:hover{
+    color: grey;
+
+    background-color: aqua;
+}
+
+a:hover {
+    /* color: red !important; */
+    
+    cursor: cell;
+    
+  }
